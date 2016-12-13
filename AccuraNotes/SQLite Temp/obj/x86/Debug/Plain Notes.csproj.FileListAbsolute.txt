@@ -1,0 +1,82 @@
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Assets\ApplicationIcon.png
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Plain Notes.dll
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Plain Notes.pdb
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\Bin\x86\Debug\resources.pri
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\Bin\x86\Debug\AppxManifest.xml
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Plain Notes.build.appxrecipe
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Properties\WMAppManifest.xml
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\Bin\x86\Debug\AppManifest.xaml
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Plain Notes_Debug_ARM.xap
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Sqlite.winmd
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Sqlite.dll
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\obj\x86\Debug\Plain Notes.csprojResolveAssemblyReference.cache
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\obj\x86\Debug\App.g.cs
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\obj\x86\Debug\MainPage.g.cs
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\obj\x86\Debug\Plain Notes.g.resources
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\obj\x86\Debug\Plain_Notes.Resources.AppResources.resources
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\obj\x86\Debug\Plain Notes.csproj.GenerateResource.Cache
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\obj\x86\Debug\Plain Notes.dll
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\obj\x86\Debug\Plain Notes.pdb
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\obj\x86\Debug\priconfig.xml
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\obj\x86\Debug\priconfig.xml.intermediate
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\obj\x86\Debug\layout.resfiles
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\obj\x86\Debug\layout.resfiles.intermediate
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\obj\x86\Debug\resources.resfiles
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\obj\x86\Debug\resources.resfiles.intermediate
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\obj\x86\Debug\pri.resfiles
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\obj\x86\Debug\pri.resfiles.intermediate
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\obj\x86\Debug\qualifiers.txt
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\obj\x86\Debug\qualifiers.txt.intermediate
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\obj\x86\Debug\ProjectArchitectures.txt
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\obj\x86\Debug\MDILProjectFiles.xml
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\obj\x86\Debug\XapCacheFile.xml
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Plain Notes.dll.CodeAnalysisLog.xml
+E:\Dev\WindowsPhoneProjects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Plain Notes.dll.lastcodeanalysissucceeded
+C:\Users\MOZZEKIMATHI\Desktop\SQLite Temp\SQLite Temp\obj\x86\Debug\Plain Notes.dll
+C:\Users\MOZZEKIMATHI\Desktop\SQLite Temp\SQLite Temp\obj\x86\Debug\Plain Notes.pdb
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Plain Notes.dll
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Plain Notes.pdb
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Plain Notes.dll.CodeAnalysisLog.xml
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Plain Notes.dll.lastcodeanalysissucceeded
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\Bin\x86\Debug\resources.pri
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\Bin\x86\Debug\AppxManifest.xml
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Plain Notes.build.appxrecipe
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\Bin\x86\Debug\AppManifest.xaml
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Plain Notes_Debug_ARM.xap
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Sqlite.winmd
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\Bin\x86\Debug\Sqlite.dll
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\Plain Notes.csprojResolveAssemblyReference.cache
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\App.g.cs
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\MainPage.g.cs
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\Plain Notes.g.resources
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\Plain_Notes.Resources.AppResources.resources
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\Plain Notes.csproj.GenerateResource.Cache
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\Plain Notes.dll
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\Plain Notes.pdb
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\priconfig.xml
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\layout.resfiles
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\resources.resfiles
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\pri.resfiles
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\qualifiers.txt
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\MDILProjectFiles.xml
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\XapCacheFile.xml

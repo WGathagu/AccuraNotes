@@ -1,0 +1,19 @@
+H:\Blog Data\SQLite\SQLite Temp\SQLite Temp\Bin\Debug\Assets\ApplicationIcon.png
+H:\Blog Data\SQLite\SQLite Temp\SQLite Temp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+H:\Blog Data\SQLite\SQLite Temp\SQLite Temp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+H:\Blog Data\SQLite\SQLite Temp\SQLite Temp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+H:\Blog Data\SQLite\SQLite Temp\SQLite Temp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+H:\Blog Data\SQLite\SQLite Temp\SQLite Temp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+H:\Blog Data\SQLite\SQLite Temp\SQLite Temp\Bin\Debug\SQLite Temp.dll
+H:\Blog Data\SQLite\SQLite Temp\SQLite Temp\Bin\Debug\SQLite Temp.pdb
+H:\Blog Data\SQLite\SQLite Temp\SQLite Temp\Bin\Debug\AppManifest.xaml
+H:\Blog Data\SQLite\SQLite Temp\SQLite Temp\Bin\Debug\Properties\WMAppManifest.xml
+H:\Blog Data\SQLite\SQLite Temp\SQLite Temp\Bin\Debug\SQLite_Temp_Debug_AnyCPU.xap
+H:\Blog Data\SQLite\SQLite Temp\SQLite Temp\obj\Debug\App.g.cs
+H:\Blog Data\SQLite\SQLite Temp\SQLite Temp\obj\Debug\MainPage.g.cs
+H:\Blog Data\SQLite\SQLite Temp\SQLite Temp\obj\Debug\SQLite Temp.g.resources
+H:\Blog Data\SQLite\SQLite Temp\SQLite Temp\obj\Debug\SQLite_Temp.Resources.AppResources.resources
+H:\Blog Data\SQLite\SQLite Temp\SQLite Temp\obj\Debug\SQLite Temp.csproj.GenerateResource.Cache
+H:\Blog Data\SQLite\SQLite Temp\SQLite Temp\obj\Debug\SQLite Temp.dll
+H:\Blog Data\SQLite\SQLite Temp\SQLite Temp\obj\Debug\SQLite Temp.pdb
+H:\Blog Data\SQLite\SQLite Temp\SQLite Temp\obj\Debug\XapCacheFile.xml
