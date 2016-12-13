@@ -80,3 +80,8 @@ C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite T
 C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\MDILProjectFiles.xml
 C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\SQLite Temp\SQLite Temp\obj\x86\Debug\XapCacheFile.xml
+C:\Users\MOZZEKIMATHI\Documents\GitHub\AccuraNotes\AccuraNotes\SQLite Temp\obj\x86\Debug\Plain Notes.csprojResolveAssemblyReference.cache
+C:\Users\MOZZEKIMATHI\Documents\GitHub\AccuraNotes\AccuraNotes\SQLite Temp\obj\x86\Debug\App.g.cs
+C:\Users\MOZZEKIMATHI\Documents\GitHub\AccuraNotes\AccuraNotes\SQLite Temp\obj\x86\Debug\MainPage.g.cs
+C:\Users\MOZZEKIMATHI\Documents\GitHub\AccuraNotes\AccuraNotes\SQLite Temp\obj\x86\Debug\Plain Notes.dll
+C:\Users\MOZZEKIMATHI\Documents\GitHub\AccuraNotes\AccuraNotes\SQLite Temp\obj\x86\Debug\Plain Notes.pdb

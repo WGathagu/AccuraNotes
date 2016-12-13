@@ -45,14 +45,18 @@
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
-        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <ListBox HorizontalAlignment="Left" Height="287" VerticalAlignment="Top" Width="456" Name="TaskListBox"/>
-            <TextBox HorizontalAlignment="Left" Height="76" Margin="10,292,0,0" TextWrapping="Wrap" Text="Title" VerticalAlignment="Top" Width="436" Name="TitleField"/>
-            <TextBox HorizontalAlignment="Left" Height="134" Margin="11,363,0,0" TextWrapping="Wrap" Text="Note" VerticalAlignment="Top" Width="436" Name="TextField"/>
+        <Grid x:Name="ContentPanel" Margin="12,71,12,28" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="439*"/>
+                <ColumnDefinition Width="17*"/>
+            </Grid.ColumnDefinitions>
+            <ListBox HorizontalAlignment="Left" Height="287" VerticalAlignment="Top" Width="456" Name="TaskListBox" Grid.ColumnSpan="2"/>
+            <TextBox HorizontalAlignment="Left" Height="76" Margin="10,292,0,0" TextWrapping="Wrap" Text="Title" VerticalAlignment="Top" Width="436" Name="TitleField" Grid.ColumnSpan="2"/>
+            <TextBox HorizontalAlignment="Left" Height="134" Margin="11,363,0,0" TextWrapping="Wrap" Text="Note" VerticalAlignment="Top" Width="436" Name="TextField" Grid.ColumnSpan="2"/>
             <Button Content="Insert" HorizontalAlignment="Left" Height="92" Margin="10,497,0,0" VerticalAlignment="Top" Width="216" Click="Insert_Click" Background="#FF222B83"/>
-            <Button Content="Delete" HorizontalAlignment="Left" Height="92" Margin="230,497,0,0" VerticalAlignment="Top" Width="216" Click="Delete_Click" Background="#FF832222"/>
-            <Button Content="Update" HorizontalAlignment="Left" Height="92" Margin="10,594,0,0" VerticalAlignment="Top" Width="216" Click="Update_Click" Background="#FF836422"/>
-            <Button Content="Retrieve" HorizontalAlignment="Left" Height="92" Margin="230,594,0,0" VerticalAlignment="Top" Width="216" Click="Retrieve_Click" Background="#FF3F5F1A"/>
+            <Button Content="Delete" HorizontalAlignment="Left" Height="92" Margin="230,497,0,0" VerticalAlignment="Top" Width="216" Click="Delete_Click" Background="#FF832222" Grid.ColumnSpan="2"/>
+            <Button Content="Update" HorizontalAlignment="Left" Height="92" Margin="10,594,0,-17" VerticalAlignment="Top" Width="216" Click="Update_Click" Background="#FF836422"/>
+            <Button Content="Retrieve" HorizontalAlignment="Left" Height="92" Margin="230,594,0,-17" VerticalAlignment="Top" Width="216" Click="Retrieve_Click" Background="#FF3F5F1A" Grid.ColumnSpan="2"/>
 
         </Grid>
 
