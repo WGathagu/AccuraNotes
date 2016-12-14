@@ -1,0 +1,57 @@
+﻿<Page
+    x:Class="AccuraNotes.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AccuraNotes"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.BottomAppBar>
+        <CommandBar IsSticky="True" x:Name="appBar">
+            <CommandBar.PrimaryCommands>
+                <AppBarButton Icon="Add" IsCompact="False" Label="Add" Click="btnAdd_Click"/>
+                <AppBarButton Icon="Edit" IsCompact="False" Label="Edit" Click="btnEdit_Click"/>
+                <AppBarButton Icon="Delete" IsCompact="False" Label="Delete" Click="btnDelete_Click"/>
+                <AppBarButton Icon="Map" IsCompact="False" Label="Map" Click="btnMap_Click"/>
+            </CommandBar.PrimaryCommands>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton Label="Add"/>
+                <AppBarButton Label="Delete"/>
+                <AppBarButton Label="Update"/>
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid>
+        <ScrollViewer Foreground="Black">
+            <ScrollViewer.Background>
+                <ImageBrush Stretch="UniformToFill" ImageSource="Assets/SplashScreen.png"/>
+            </ScrollViewer.Background>
+            <Grid Margin="20,20,20,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="80" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+
+                <TextBlock Grid.Row="0" 
+                       Style="{StaticResource HeaderTextBlockStyle}" Text="Accura Notes" Foreground="#FFA2AAE0" FontWeight="Bold" FontFamily="Arial Rounded MT Bold" FontSize="48" Margin="31,0,0,0"/>
+
+                <ListView x:Name="ListNotes" ItemsSource="{Binding}"
+                      SelectionMode="None"
+                      IsItemClickEnabled="True"
+                      ItemClick="ListView_ItemClick" Foreground="#FFF4F9FB" Margin="10,10,10,33" Background="#FFCCD0D1" FontSize="12" Grid.Row="1">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel>
+                                <TextBlock Text="{Binding Title}" FontSize="26" TextWrapping="NoWrap" TextTrimming="WordEllipsis" Foreground="#FF1F1818" />
+                                <TextBlock Text="{Binding Note}" TextWrapping="Wrap" TextTrimming="WordEllipsis" Foreground="#FF1F1818" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+
+            </Grid>
+        </ScrollViewer>
+    </Grid>
+</Page>

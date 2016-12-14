@@ -1,0 +1,181 @@
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\App.g.i.cs
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\App.g.cs
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\AddNote.g.i.cs
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\AddNote.g.cs
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\MainPage.g.i.cs
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\MainPage.g.cs
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\ViewLocation.g.i.cs
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\ViewLocation.g.cs
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\App.xaml
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\App.xbf
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\XamlSaveStateFile.xml
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\AddNote.xaml
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\MainPage.xaml
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\ViewLocation.xaml
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\AddNote.xbf
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\MainPage.xbf
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\ViewLocation.xbf
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\bin\Debug\App.xbf
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\bin\Debug\AddNote.xbf
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\bin\Debug\MainPage.xbf
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\bin\Debug\ViewLocation.xbf
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\bin\Debug\AccuraNotes.xr.xml
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\bin\Debug\AccuraNotes.exe
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\bin\Debug\AccuraNotes.pdb
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\bin\Debug\resources.pri
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\bin\Debug\AppxManifest.xml
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\bin\Debug\AccuraNotes.build.appxrecipe
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\AccuraNotes.exe
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\AccuraNotes.pdb
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\priconfig.xml
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\priconfig.xml.intermediate
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\layout.resfiles
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\layout.resfiles.intermediate
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\resources.resfiles
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\resources.resfiles.intermediate
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\pri.resfiles
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\pri.resfiles.intermediate
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\qualifiers.txt
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\qualifiers.txt.intermediate
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\ProjectArchitectures.txt
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\AccuraNotes.csprojResolveAssemblyReference.cache
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\bin\Debug\AccuraNotes.exe.config
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\bin\Debug\PortableRest.dll
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\bin\Debug\PortableRest.xml
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\MOZZEKIMATHI\Documents\Visual Studio 2015\Projects\AccuraNotes\AccuraNotes\obj\Debug\AccuraNotes.csproj.GenerateResource.Cache
+D:\AccuraNotes\AccuraNotes\bin\Debug\AccuraNotes.exe.config
+D:\AccuraNotes\AccuraNotes\bin\Debug\App.xbf
+D:\AccuraNotes\AccuraNotes\bin\Debug\AddNote.xbf
+D:\AccuraNotes\AccuraNotes\bin\Debug\MainPage.xbf
+D:\AccuraNotes\AccuraNotes\bin\Debug\ViewLocation.xbf
+D:\AccuraNotes\AccuraNotes\bin\Debug\ViewNote.xbf
+D:\AccuraNotes\AccuraNotes\bin\Debug\AccuraNotes.xr.xml
+D:\AccuraNotes\AccuraNotes\bin\Debug\AccuraNotes.exe
+D:\AccuraNotes\AccuraNotes\bin\Debug\AccuraNotes.pdb
+D:\AccuraNotes\AccuraNotes\bin\Debug\resources.pri
+D:\AccuraNotes\AccuraNotes\bin\Debug\AppxManifest.xml
+D:\AccuraNotes\AccuraNotes\bin\Debug\AccuraNotes.build.appxrecipe
+D:\AccuraNotes\AccuraNotes\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\AccuraNotes\AccuraNotes\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\AccuraNotes\AccuraNotes\bin\Debug\Newtonsoft.Json.dll
+D:\AccuraNotes\AccuraNotes\bin\Debug\PortableRest.dll
+D:\AccuraNotes\AccuraNotes\bin\Debug\System.Net.Http.Extensions.dll
+D:\AccuraNotes\AccuraNotes\bin\Debug\System.Net.Http.Primitives.dll
+D:\AccuraNotes\AccuraNotes\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\AccuraNotes\AccuraNotes\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\AccuraNotes\AccuraNotes\bin\Debug\Newtonsoft.Json.xml
+D:\AccuraNotes\AccuraNotes\bin\Debug\PortableRest.xml
+D:\AccuraNotes\AccuraNotes\bin\Debug\System.Net.Http.Extensions.xml
+D:\AccuraNotes\AccuraNotes\bin\Debug\System.Net.Http.Primitives.xml
+D:\AccuraNotes\AccuraNotes\obj\Debug\AccuraNotes.csprojResolveAssemblyReference.cache
+D:\AccuraNotes\AccuraNotes\obj\Debug\App.g.i.cs
+D:\AccuraNotes\AccuraNotes\obj\Debug\App.g.cs
+D:\AccuraNotes\AccuraNotes\obj\Debug\AddNote.g.i.cs
+D:\AccuraNotes\AccuraNotes\obj\Debug\AddNote.g.cs
+D:\AccuraNotes\AccuraNotes\obj\Debug\MainPage.g.i.cs
+D:\AccuraNotes\AccuraNotes\obj\Debug\MainPage.g.cs
+D:\AccuraNotes\AccuraNotes\obj\Debug\ViewLocation.g.i.cs
+D:\AccuraNotes\AccuraNotes\obj\Debug\ViewLocation.g.cs
+D:\AccuraNotes\AccuraNotes\obj\Debug\ViewNote.g.i.cs
+D:\AccuraNotes\AccuraNotes\obj\Debug\ViewNote.g.cs
+D:\AccuraNotes\AccuraNotes\obj\Debug\XamlTypeInfo.g.cs
+D:\AccuraNotes\AccuraNotes\obj\Debug\App.xaml
+D:\AccuraNotes\AccuraNotes\obj\Debug\AddNote.xaml
+D:\AccuraNotes\AccuraNotes\obj\Debug\MainPage.xaml
+D:\AccuraNotes\AccuraNotes\obj\Debug\ViewLocation.xaml
+D:\AccuraNotes\AccuraNotes\obj\Debug\ViewNote.xaml
+D:\AccuraNotes\AccuraNotes\obj\Debug\App.xbf
+D:\AccuraNotes\AccuraNotes\obj\Debug\AddNote.xbf
+D:\AccuraNotes\AccuraNotes\obj\Debug\MainPage.xbf
+D:\AccuraNotes\AccuraNotes\obj\Debug\ViewLocation.xbf
+D:\AccuraNotes\AccuraNotes\obj\Debug\ViewNote.xbf
+D:\AccuraNotes\AccuraNotes\obj\Debug\XamlSaveStateFile.xml
+D:\AccuraNotes\AccuraNotes\obj\Debug\AccuraNotes.exe
+D:\AccuraNotes\AccuraNotes\obj\Debug\AccuraNotes.pdb
+D:\AccuraNotes\AccuraNotes\obj\Debug\AccuraNotes.csproj.GenerateResource.Cache
+D:\AccuraNotes\AccuraNotes\obj\Debug\priconfig.xml
+D:\AccuraNotes\AccuraNotes\obj\Debug\priconfig.xml.intermediate
+D:\AccuraNotes\AccuraNotes\obj\Debug\layout.resfiles
+D:\AccuraNotes\AccuraNotes\obj\Debug\layout.resfiles.intermediate
+D:\AccuraNotes\AccuraNotes\obj\Debug\resources.resfiles
+D:\AccuraNotes\AccuraNotes\obj\Debug\resources.resfiles.intermediate
+D:\AccuraNotes\AccuraNotes\obj\Debug\pri.resfiles
+D:\AccuraNotes\AccuraNotes\obj\Debug\pri.resfiles.intermediate
+D:\AccuraNotes\AccuraNotes\obj\Debug\qualifiers.txt
+D:\AccuraNotes\AccuraNotes\obj\Debug\qualifiers.txt.intermediate
+D:\AccuraNotes\AccuraNotes\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\AccuraNotes\AccuraNotes\obj\Debug\ProjectArchitectures.txt
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\AccuraNotes.exe.config
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\App.xbf
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\AddNote.xbf
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\MainPage.xbf
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\ViewLocation.xbf
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\ViewNote.xbf
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\AccuraNotes.xr.xml
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\AccuraNotes.exe
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\AccuraNotes.pdb
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\resources.pri
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\AppxManifest.xml
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\AccuraNotes.build.appxrecipe
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\PortableRest.dll
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\PortableRest.xml
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\AccuraNotes.csprojResolveAssemblyReference.cache
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\App.g.i.cs
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\App.g.cs
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\AddNote.g.i.cs
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\AddNote.g.cs
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\MainPage.g.i.cs
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\MainPage.g.cs
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\ViewLocation.g.i.cs
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\ViewLocation.g.cs
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\ViewNote.g.i.cs
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\ViewNote.g.cs
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\App.xaml
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\AddNote.xaml
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\MainPage.xaml
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\ViewLocation.xaml
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\ViewNote.xaml
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\App.xbf
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\AddNote.xbf
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\MainPage.xbf
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\ViewLocation.xbf
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\ViewNote.xbf
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\XamlSaveStateFile.xml
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\AccuraNotes.exe
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\AccuraNotes.pdb
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\AccuraNotes.csproj.GenerateResource.Cache
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\priconfig.xml
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\priconfig.xml.intermediate
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\layout.resfiles
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\layout.resfiles.intermediate
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\resources.resfiles
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\resources.resfiles.intermediate
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\pri.resfiles
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\pri.resfiles.intermediate
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\qualifiers.txt
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\qualifiers.txt.intermediate
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\DVC Academic\Desktop\AccuraNotes\AccuraNotes\obj\Debug\ProjectArchitectures.txt

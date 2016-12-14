@@ -1,0 +1,30 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AccuraNotes"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Maps="using:Windows.UI.Xaml.Controls.Maps"
+    x:Class="AccuraNotes.ViewLocation"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.BottomAppBar>
+        <CommandBar IsSticky="True" x:Name="appBar">
+            <CommandBar.SecondaryCommands>
+                <AppBarButton Label="Back"/>
+                <AppBarButton Label="Exit"/>
+            </CommandBar.SecondaryCommands>
+            <AppBarButton x:ConnectionId='1' Icon="Back" IsCompact="False" Label="Back"                      />
+            <AppBarButton x:ConnectionId='2' Icon="ZoomOut" IsCompact="False" Label="ZoomOut"                     />
+            <AppBarButton x:ConnectionId='3' Icon="ZoomIn" IsCompact="False" Label="ZoomIn"                    />
+            <AppBarButton x:ConnectionId='4' Icon="Home" IsCompact="False" Label="Home"                      />
+        </CommandBar>
+    </Page.BottomAppBar>
+    <Grid Background="#FF764343">
+        <TextBlock Grid.Row="0" 
+                       Style="{StaticResource HeaderTextBlockStyle}" Text="View Location" Foreground="#FFA2AAE0" FontWeight="Bold" FontFamily="Arial Rounded MT Bold" FontSize="40" Margin="65,10,-55,-10"/>
+        <Maps:MapControl x:Name="NotesMap" HorizontalAlignment="Left" Margin="10,77,0,0" VerticalAlignment="Top" Width="380" Height="493" MapServiceToken="AqK9nK0h_LngGSC8pHPzBJvl62yf617zRytgimB3fyYqdJPljcB-EGm3llmUUrlI"/>
+
+    </Grid>
+</Page>
+
